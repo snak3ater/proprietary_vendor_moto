@@ -36,6 +36,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AppDirectedSMSProxy \
     BuaContactAdapter \
+    CarrierServices \
     CNEService \
     ConnMO \
     CQATest \
